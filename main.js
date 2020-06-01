@@ -17,4 +17,5 @@ let toggleNav = function(){
     }
     toggleNavStatus = true;
     }
+    //copy paste the if statement again 
 }
