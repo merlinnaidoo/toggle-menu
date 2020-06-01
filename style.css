@@ -86,3 +86,6 @@ body{
     white-space: nowrap;
 }
 
+.nav-sidebar ul li span:hover{
+    background-color: aqua;
+}
